@@ -24,5 +24,4 @@ const transpose = (letters, word) => {
   }
   return false;
 };
-
 module.exports = wordSearch;
